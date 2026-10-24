@@ -1,0 +1,20 @@
+{
+  "name": "visual-review",
+  "version": "0.1.0",
+  "description": "Universal in-situ visual feedback, UI inspection and 1-click GitHub issue & AI prompt generator",
+  "author": "Stéphane Dos Santos Padrao",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Ready for modularization\""
+  },
+  "keywords": [
+    "visual-review",
+    "devtools",
+    "annotations",
+    "in-situ",
+    "feedback",
+    "github-issues",
+    "ai-prompts"
+  ]
+}
